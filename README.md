@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m a Student at New Era University
-- 🌱 I’m currently studying Information Technology
+- 🌱 I’m currently studying Bachelor of Science in Information Technology
 - 📫 How to reach me: emgnicole@gmail.com
 - 😄 Skill Set: Basic Computer Skills
 - ⚡Certifications:
